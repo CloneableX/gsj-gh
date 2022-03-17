@@ -32,3 +32,15 @@
 
 ![价格表](https://img1.jiemian.com/jiemian/original/20220121/164273830456036700_a700xH.jpg)
 
+## Inspiration
+
+- Bloom Energy Corp
+  - 清洁电能电解固态氧化物
+  - 汽车电池充能
+  - 城市中天然气混合使用
+  - 多余部分可存在氢能存储站或转运
+
+- 氢燃料电池
+- 液氢低温存储
+- 炼焦工艺副产品
+
